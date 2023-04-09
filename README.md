@@ -1,5 +1,7 @@
+ ![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/website.gif)
  <h1 align="center">Hi 👋, I'm ISHAN KRISHNAN SRIVASTAVA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on **PRODUCT RECOMENDATION SYSTEM**
 
